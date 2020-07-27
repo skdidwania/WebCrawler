@@ -1,5 +1,6 @@
 # Project Title : WebCrawler
 * A Web crawler, sometimes called a spider or spiderbot and often shortened to crawler, is an Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering).
+* The breadth first search algorithm algorithm is used for crawler.
 * This repository contains the code for a simple Web Crawler in Java
 # Getting Started
 * Download the .java files.
@@ -19,5 +20,5 @@
 # Author
 * Shri Krishna Didwania
 
-# Acknowledgments
+
 
